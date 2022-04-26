@@ -1,0 +1,12 @@
+NAME
+	car - concatenate files and print on the standard output
+
+SYNOPSIS
+	cat [FILE]...
+
+DESCRIPTION
+	Concatenate FILE(s) to standard output.
+
+EXAMPLE
+	cat f - g
+		Output f's contents, then standard input, then g's contents.

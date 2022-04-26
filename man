@@ -1,0 +1,11 @@
+Name
+	man - an interface to the on-line regerence manuals
+
+DESCRIPTION
+	man is the system's manual pager. Each page argument given to man is
+	normally the name of a program, utility or function. The manual page
+	associated with each of these arguments is then found and displayed.
+
+EXAPLES
+	man ls
+		Display the manual page for the item (program) ls.
